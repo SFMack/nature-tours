@@ -1,20 +1,20 @@
-# Project Name
-project description
+# Nature Tours Template
+A website template
 
 ## Functionality
-lorem
+tbc
 
 ## Status
-lorem
+tbc
 
 ## Tech
-lorem
+HTML | CSS | Sass
 
 ## Bugs
-lorem
+None
 
 ## How To Use
-lorem
+Take what is needed as it's needed or deploy repo as it's own website
 
 ## Plans for the future
-lorem
+tbc
